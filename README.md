@@ -12,5 +12,5 @@ Features:
 2) Save time in a list.
 3) Implement formatTime method to return time in form '00:00:00'.
 
-https://github.com/Shrouk-Ashraf/CodeCasa/assets/68174886/8eb3d1ba-4220-46e7-937d-7d7ac6f6fe31
+https://github.com/Shrouk-Ashraf/stopwatch_flutter/assets/68174886/eb1b1097-32f0-4ae9-88fa-87ce0f31459b
 
